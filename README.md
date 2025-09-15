@@ -2,7 +2,7 @@
 # Installation
 To run this project, you'll need to install the following libraries:
 
-    pip install scikit-learn numpy
+     pip install scikit-learn numpy
      
 # What i built ?
 - Implemented a basic simple linear regression.
